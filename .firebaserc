@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "adv-vue-3aa46": {
+      "hosting": {
+        "sk-planes": [
+          "adv-vue-3aa46"
+        ]
+      }
+    }
+  }
+}
